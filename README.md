@@ -34,8 +34,6 @@ Sleep Analysis Module — это десктопное приложение на 
 ### Предварительные требования
 
 - **Java JDK 11** или выше
-  - [Скачать с Oracle](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
-  - [OpenJDK](https://openjdk.java.net/)
 - **Система сборки:** Maven или Gradle
 - **IDE (рекомендуется):** IntelliJ IDEA, Eclipse или VS Code
 
@@ -60,7 +58,7 @@ Sleep Analysis Module — это десктопное приложение на 
 ### Альтернативные способы запуска
 
 **Через IDE:**
-- Импортируйте проект как Maven проект
+- Импортируйте проект
 - Найдите главный класс `Main.java`
 - Запустите с конфигурацией JavaFX
 
