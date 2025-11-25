@@ -62,6 +62,7 @@ Sleep Analysis Module — это десктопное приложение на 
  Запустите с конфигурацией JavaFX
 
 ##  Структура проекта
+ ```
 personal-finance-manager/
 ├── public/                 # Статические файлы
 │   ├── index.html         # Главный HTML-файл
@@ -80,7 +81,7 @@ personal-finance-manager/
 ├── .gitignore             # Исключает node_modules, .env и т.д.
 ├── package.json           # Список зависимостей и скриптов
 └── README.md              # Документация (этот файл)
-
+ ```
 ##  Команда проекта
 
 ### Основной разработчик
