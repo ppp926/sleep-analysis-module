@@ -63,7 +63,7 @@ Sleep Analysis Module — это десктопное приложение на 
 
 ##  Структура проекта
 
-```
+``` bash
 sleep-analysis-module/
 ├── src/main/java/
 │   ├── controllers/          # JavaFX контроллеры
@@ -89,11 +89,11 @@ sleep-analysis-module/
 
 Мы приветствуем вклад в развитие проекта! Чтобы предложить улучшения:
 
-1. Форкните репозиторий
-2. Создайте feature branch (`git checkout -b feature/AmazingFeature`)
-3. Закоммитьте изменения (`git commit -m 'Add some AmazingFeature'`)
-4. Запушьте ветку (`git push origin feature/AmazingFeature`)
-5. Откройте Pull Request
+ Форкните репозиторий
+ Создайте feature branch (`git checkout -b feature/AmazingFeature`)
+ Закоммитьте изменения (`git commit -m 'Add some AmazingFeature'`)
+ Запушьте ветку (`git push origin feature/AmazingFeature`)
+ Откройте Pull Request
 
 ##  Сообщение о проблемах
 
