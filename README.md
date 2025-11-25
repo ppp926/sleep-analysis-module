@@ -62,14 +62,25 @@ Sleep Analysis Module — это десктопное приложение на 
  Запустите с конфигурацией JavaFX
 
 ##  Структура проекта
- ```
-sleep-analysis-module/
-├── src/main/java/     # Исходный код
-├── src/main/resources # Ресурсы приложения
-├── src/test/java/     # Тесты
-├── docs/              # Документация
-└── scripts/           # Вспомогательные скрипты
-```
+personal-finance-manager/
+├── public/                 # Статические файлы
+│   ├── index.html         # Главный HTML-файл
+│   └── favicon.ico        # Иконка сайта
+├── src/                   # Исходный код приложения
+│   ├── components/        # React-компоненты (кнопки, формы)
+│   │   ├── TransactionForm.js
+│   │   └── Chart.js
+│   ├── pages/             # Страницы приложения
+│   │   ├── Dashboard.js   # Главная страница
+│   │   └── Statistics.js  # Страница статистики
+│   ├── styles/            # Стили CSS
+│   ├── utils/             # Утилиты (работа с датами, localStorage)
+│   ├── App.js             # Корневой компонент
+│   └── index.js           # Точка входа в приложение
+├── .gitignore             # Исключает node_modules, .env и т.д.
+├── package.json           # Список зависимостей и скриптов
+└── README.md              # Документация (этот файл)
+
 ##  Команда проекта
 
 ### Основной разработчик
