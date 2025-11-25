@@ -62,7 +62,7 @@ Sleep Analysis Module — это десктопное приложение на 
  Запустите с конфигурацией JavaFX
 
 ##  Структура проекта
- ```bash
+ ```
 sleep-analysis-module/
 ├── src/main/java/     # Исходный код
 ├── src/main/resources # Ресурсы приложения
