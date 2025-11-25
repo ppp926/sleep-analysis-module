@@ -63,7 +63,7 @@ Sleep Analysis Module — это десктопное приложение на 
 
 ##  Структура проекта
   ```bash
-personal-finance-manager/
+sleep-analysis-module/
 ├── public/                 # Статические файлы
 │   ├── index.html         # Главный HTML-файл
 │   └── favicon.ico        # Иконка сайта
