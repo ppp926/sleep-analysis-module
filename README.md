@@ -1,6 +1,6 @@
 # Sleep Analysis Module
 
-<div align="center">
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=javafx&logoColor=white)
@@ -60,9 +60,9 @@ Sleep Analysis Module — это десктопное приложение на 
  Импортируйте проект
  Найдите главный класс `Main.java`
  Запустите с конфигурацией JavaFX
-</div>
+
 ##  Структура проекта
- ```
+  ```bash
 personal-finance-manager/
 ├── public/                 # Статические файлы
 │   ├── index.html         # Главный HTML-файл
@@ -81,9 +81,9 @@ personal-finance-manager/
 ├── .gitignore             # Исключает node_modules, .env и т.д.
 ├── package.json           # Список зависимостей и скриптов
 └── README.md              # Документация (этот файл)
- ```
+```
 ##  Команда проекта
-<div align="center">
+
 ### Основной разработчик
 
 **Цирульников М.Ю**  
